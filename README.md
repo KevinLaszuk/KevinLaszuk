@@ -2,8 +2,8 @@
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
- [Pets Everywhere Website]: https://github.com/KevinLaszuk/PetsWebsite
-
+<b>JavaScript, HTML, CSS </b>
+  - [Pets Everywhere Website](https://github.com/KevinLaszuk/PetsWebsite)
 
 <h2>Certifications</h2
 
