@@ -1,4 +1,4 @@
-<h1>Hi, I'm Kevin! <br/><a>Programmer</a>
+<h1>Hi, I'm Kevin! <br/><a href="https://github.com/KevinLaszuk">Programmer</a>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
