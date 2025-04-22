@@ -1,4 +1,4 @@
-<h1>Hi, I'm Kevin! <br/> <a href="https://www.linkedin.com/in/KevinLaszuk/">UCF IT Graduate </a>, <a href="https://github.com/KevinLaszuk">Programmer</a>, Tech Support & Software Ethusiast
+<h1>Hi, I'm Kevin! <br/> <a href="https://www.linkedin.com/in/KevinLaszuk/">UCF IT Graduate</a>, <a href="https://github.com/KevinLaszuk">Programmer</a>, Tech Support & Software Ethusiast
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
