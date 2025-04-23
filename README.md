@@ -4,6 +4,7 @@
 
 <b>JavaScript, HTML, CSS </b>
   - [Pets Everywhere Website](https://github.com/KevinLaszuk/PetsWebsite)
+  - [Connect Four](https://github.com/KevinLaszuk/ConnectFour)
 
 <h2>Certifications</h2
 
