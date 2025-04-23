@@ -6,6 +6,9 @@
   - [Pets Everywhere Website](https://github.com/KevinLaszuk/PetsWebsite)
   - [Connect Four](https://github.com/KevinLaszuk/ConnectFour)
 
+<h2> Networking Projects:</h2>
+  - Coming soon...
+
 <h2>Certifications</h2
 
 - CompTIA A+ (In Progress)
