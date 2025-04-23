@@ -8,8 +8,6 @@
 - <b>Java </b>
   - [Personnel Management System](https://github.com/KevinLaszuk/Personnel-Management-System)
 
- 
-  
 
 - <b><h2> Networking Projects:</h2></b>
   - Coming soon...
