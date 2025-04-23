@@ -5,6 +5,11 @@
 - <b>JavaScript, HTML, CSS </b>
   - [Pets Everywhere Website](https://github.com/KevinLaszuk/PetsWebsite)
   - [Connect Four](https://github.com/KevinLaszuk/ConnectFour)
+- <b>Java </b>
+  - [Personnel Management System](https://github.com/KevinLaszuk/Personnel-Management-System)
+
+ 
+  
 
 - <b><h2> Networking Projects:</h2></b>
   - Coming soon...
