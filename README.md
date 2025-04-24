@@ -1,6 +1,6 @@
 <h1>Hi, I'm Kevin, <a href="https://www.linkedin.com/in/kevin-laszuk/"> a UCF IT Graduate</a>
 
-<h2>👨‍💻 Software Development Projects:</h2>
+<h2>👨‍💻 Information Technology Projects:</h2>
 
 - <b>JavaScript, HTML, CSS </b>
   - [Pets Everywhere Website](https://github.com/KevinLaszuk/PetsWebsite)
@@ -8,9 +8,6 @@
 - <b>Java </b>
   - [Personnel Management System](https://github.com/KevinLaszuk/Personnel-Management-System)
 
-
-- <b><h2> Networking Projects:</h2></b>
-  - Coming soon...
 
 
 <h2>Certifications</h2
