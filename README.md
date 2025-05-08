@@ -1,4 +1,7 @@
-<h1>Hi, I'm Kevin, <a href="https://www.linkedin.com/in/kevin-laszuk/"> a UCF IT Graduate</a>
+<h1>Hi, I'm Kevin, <a href="https://www.linkedin.com/in/kevin-laszuk/"> a UCF IT Graduate</a> </h1>
+
+<p>I'm an entry-level IT professional with experience in programming, networking, and system administration. I enjoy solving technical problems and continuously improving my skills through hands-on projects. Currently seeking opportunities in IT support or software development.</p>
+
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
@@ -22,6 +25,7 @@
 - TestOut IT Fundamentals Pro
 - freeCodeCamp: Responsive Web Design
 - Microsoft Office Specialist: Office 2016
+
 
 <h2> 🤳 Connect with me:</h2>
 
