@@ -10,6 +10,10 @@
   - [Active Directory Domain Services and Joining a Domain](https://github.com/KevinLaszuk/Active-Directory-Domain-Services)
   - [Installing and Configuring a Virtual Network](https://github.com/KevinLaszuk/Virtual-Network)
   - [Task Scheduling and PowerShell Scripting](https://github.com/KevinLaszuk/Task-Scheduling-and-PowerShell-Scripting)
+- <b>Networking</b>
+  -[Connecting 2 Computers with a Switch](https://github.com/KevinLaszuk/)
+
+
 
 <h2>Certifications</h2
 
