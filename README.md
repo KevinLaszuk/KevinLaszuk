@@ -11,7 +11,7 @@
   - [Installing and Configuring a Virtual Network](https://github.com/KevinLaszuk/Virtual-Network)
   - [Task Scheduling and PowerShell Scripting](https://github.com/KevinLaszuk/Task-Scheduling-and-PowerShell-Scripting)
 - <b>Networking</b>
-  -[Connecting 2 Computers with a Switch](https://github.com/KevinLaszuk/)
+  - [Connecting 2 Computers with a Switch](https://github.com/KevinLaszuk/)
 
 
 
