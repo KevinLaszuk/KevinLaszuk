@@ -17,7 +17,7 @@
 - <b>Networking</b>
   - [Connecting 2 Computers with a Switch Lab](https://github.com/KevinLaszuk/PC-to-Switch-Connection)
   - [LAN Configuration Lab](https://github.com/KevinLaszuk/LAN-Configuration)
-  - [Static Routing and VLAN Configuration Lab](Vhttps://github.com/KevinLaszuk/Static-Routing-and-VLAN-Configuration-Lab)
+  - [Static Routing and VLAN Configuration Lab](https://github.com/KevinLaszuk/Static-Routing-and-VLAN-Configuration-Lab)
 
 
 
