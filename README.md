@@ -5,12 +5,12 @@
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
-- <b>Programming</b>
+- <b>Programming (Java, JavaScript, HTML/CSS, SQL)</b>
   - [Three-Tier Distributed Web-Based Application](https://github.com/KevinLaszuk/Three-Tier-Web-Based-Application)
   - [Pets Everywhere Website](https://github.com/KevinLaszuk/PetsWebsite)
   - [Connect Four](https://github.com/KevinLaszuk/ConnectFour)
   - [Personnel Management System](https://github.com/KevinLaszuk/Personnel-Management-System)
-- <b>System Administration</b>
+- <b>System Administration (PowerShell, Active Directory, Virtualization)</b>
   - [Active Directory Domain Services and Joining a Domain](https://github.com/KevinLaszuk/Active-Directory-Domain-Services)
   - [Installing and Configuring a Virtual Network](https://github.com/KevinLaszuk/Virtual-Network)
   - [Task Scheduling and PowerShell Scripting](https://github.com/KevinLaszuk/Task-Scheduling-and-PowerShell-Scripting)
