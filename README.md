@@ -6,6 +6,7 @@
 <h2>👨‍💻 Information Technology Projects:</h2>
 
 - <b>Programming</b>
+  - [Three-Tier Distributed Web-Based Application] 
   - [Pets Everywhere Website](https://github.com/KevinLaszuk/PetsWebsite)
   - [Connect Four](https://github.com/KevinLaszuk/ConnectFour)
   - [Personnel Management System](https://github.com/KevinLaszuk/Personnel-Management-System)
