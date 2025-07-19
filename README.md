@@ -24,8 +24,7 @@
 <h2>Certifications</h2
 
 - CompTIA A+ (In Progress)
-- TestOut IT Fundamentals Pro
-- freeCodeCamp: Responsive Web Design
+- 
 - Microsoft Office Specialist: Office 2016
 
 
