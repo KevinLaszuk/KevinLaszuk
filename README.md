@@ -24,6 +24,7 @@
 <h2>Certifications</h2
 
 - Microsoft Office Specialist: Office 2016
+- Microsoft Certified: Azure Fundamentals (In Progress)
 
 
 <h2> 🤳 Connect with me:</h2>
