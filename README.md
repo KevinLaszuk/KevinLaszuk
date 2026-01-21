@@ -1,6 +1,6 @@
 <h1>Hi, I'm Kevin, <a href="https://www.linkedin.com/in/kevin-laszuk/"> a UCF IT Graduate</a> </h1>
 
-<p>I'm an entry-level IT professional with experience in programming, networking, and system administration. I enjoy solving technical problems and continuously improving my skills through hands-on projects. Currently, I work as a Service Desk Analyst, where I can assist users with hardware, software, and network issues, gaining valuable real-world experience in IT Support and customer service .</p>
+<p>I'm an entry-level IT professional with experience in programming, networking, and system administration. I enjoy solving technical problems and continuously improving my skills through hands-on projects. Currently, I work as a Service Desk Analyst, where I can assist users with hardware, software, and network issues, gaining valuable real-world experience in IT Support and customer service.</p>
 
 
 <h2>👨‍💻 Information Technology Projects:</h2>
